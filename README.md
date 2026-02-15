@@ -36,7 +36,7 @@
 - The codes are commented for ease of understanding.
 
 ## Research Document
-[View Full Report](docs/Data_Structures_Report.docx)
+[View Full Report](docs/DATA_STRUCTURES_RESEARCH.docx)
 
 ## The Output Screenshot
 ![Output Screenshot](screenshots/combined_output.png)
