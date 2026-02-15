@@ -2,21 +2,38 @@
 #include <vector>
 using namespace std;
 
-int main() {
-    int vertices = 3;
-    vector<int> adj[3];
-
-    adj[0].push_back(1);
-    adj[1].push_back(2);
-    adj[2].push_back(0);
-
-    for(int i = 0; i < vertices; i++) {
-        cout << "Vertex " << i << ": ";
-        for(int x : adj[i]) {
-            cout << x << " ";
-        }
-        cout << endl;
+// Class for undirected graph
+class Graph {
+private:
+    int vertices;          // Number of vertices
+    vector<int> *adj;      // Adjacency list array
+public:
+    // Constructor
+    Graph(int v) {
+        vertices = v;
+        adj = new vector<int>[v]; // Create array of vectors
     }
 
-    return 0;
+    // Add edge between two vertices
+    void addEdge(int u, int v) {
+        adj[u].push_back(v);
+        adj[v].push_back(u); // For undirected graph
+    }
+
+    // Display adjacency list
+    void display() {
+        for(int i=0; i<vertices; i++) {
+            cout << "Vertex " << i << ": ";
+            for(int x: adj[i]) cout << x << " ";
+            cout << endl;
+        }
+    }
+};
+
+int main() {
+    Graph g(3);        // Create graph with 3 vertices
+    g.addEdge(0,1);    // Add edges
+    g.addEdge(1,2);
+    g.addEdge(2,0);
+    g.display();       // Show adjacency list
 }

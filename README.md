@@ -2,24 +2,20 @@
 # Data Structures C++ Project
 - This is a class group assignment on Data Structures.
 
-# Assignment Description
-TASK 1 - 2 weeks.
+## Group Members/Collaborators
+ - JOSHUA SAMUEL       - BSCCS/2025/40065
+ - ARISTOTE ALPHONSE   - BSCCS/2025/...
+ - ROSEMARY MBUTHIA    - BSCCS/2025/...
+ - ALIER BIOR ALIER    - BSCCS/2025/...
 
-Using Notes 2 guide which is in VLMS, go to the section on  data Structure Classification.
+# Project overview
+- This project demonstrates the implementation of fundamental data structures in C++ and their applications in real-world systems. The goal is to understand how data structures work, where they are applied, and how algorithms operate on them efficiently.
 
-- Using a programming language of your choice, in groups,  write code to represent each of the data structure classification and types.
-- Research where the data structures types are applied and give reasons why.
-- Give examples of applications that are using the data structure type and algorithm. Give reasons why
-- Research how data structures and algorithms work within systems
-- Put the codes in github as group
-- Each person to upload individual github account in the vlms. Can be in a document.
-
-## Group Members
- - JOSHUA SAMUEL       BSCCS/2025/40065
- - ARISTOTE ALPHONSE   BSCCS/2025/...
- - ROSEMARY MBUTHIA     BSCCS/2025/...
- - ALIER BIOR ALIER     BSCCS/2025/...
-
+- ## Key Features
+- Demonstrates core data structures (Array, Linked List, Stack, Queue, Tree, Graph)
+- Provides examples of real-world applications for each data structure
+- Includes a research report explaining algorithms and system integration
+- Screenshots of program outputs for clarity
 
 ## Implemented Data Structures
 - Array
@@ -29,8 +25,24 @@ Using Notes 2 guide which is in VLMS, go to the section on  data Structure Class
 - Tree
 - Graph
 
+## How to Run the Code
+1. Navigate to the `src` folder.
+2. Compile a file using g++:
+
+    bash
+   g++ array.cpp -o array
+   ./array
+- Replace array.cpp with the file you want to run. eg, stack.cpp
+- The codes are commented for ease of understanding.
+
 ## Research Document
 [View Full Report](docs/Data_Structures_Report.docx)
 
 ## The Output Screenshot
-![Output Screenshot](screenshots/output.png)
+![Output Screenshot](screenshots/combined_output.png)
+
+## References
+- VLMS Notes 2: Data Structure Classification
+- C++ Documentation: https://cplusplus.com/doc/
+- GeeksforGeeks: https://www.geeksforgeeks.org/data-structures/
+
