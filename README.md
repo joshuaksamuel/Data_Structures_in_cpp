@@ -2,10 +2,10 @@
 # Data Structures C++ Project
 
 ## Group Members
- JOSHUA SAMUEL       BSCCS/2025/40065
- ARISTOTE ALPHONSE   BSCCS/2025/...
- ROSEMARY MBUTHIA     BSCCS/2025/...
- ALIER BIOR ALIER     BSCCS/2025/...
+ - JOSHUA SAMUEL       BSCCS/2025/40065
+ - ARISTOTE ALPHONSE   BSCCS/2025/...
+ - ROSEMARY MBUTHIA     BSCCS/2025/...
+ - ALIER BIOR ALIER     BSCCS/2025/...
 
 
 ## Implemented Data Structures
@@ -20,4 +20,4 @@
 [View Full Report](docs/Data_Structures_Report.docx)
 
 ## The Output Screenshot
-![Output Screenshot](screenshots.output.png)
+![Output Screenshot](screenshots/output.png)
