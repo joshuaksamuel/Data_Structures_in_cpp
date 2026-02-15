@@ -2,9 +2,11 @@
 # Data Structures C++ Project
 
 ## Group Members
-- Joshua Samuel
-- Aristote Alphonse
-- Rosemary Mbuthia
+ JOSHUA SAMUEL       BSCCS/2025/40065
+ ARISTOTE ALPHONSE   BSCCS/2025/...
+ ROSEMARY MBUTHIA     BSCCS/2025/...
+ ALIER BIOR ALIER     BSCCS/2025/...
+
 
 ## Implemented Data Structures
 - Array
@@ -17,9 +19,5 @@
 ## Research Document
 [View Full Report](docs/Data_Structures_Report.docx)
 
-## How to Run
-
-Compile using:
-
-g++ src/array.cpp -o array
-./array
+## The Output Screenshot
+![Output Screenshot](screenshots.output.png)
