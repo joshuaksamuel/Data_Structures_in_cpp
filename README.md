@@ -4,9 +4,15 @@
 
 ## Group Members/Collaborators
  - JOSHUA SAMUEL       - BSCCS/2025/40065
- - ARISTOTE ALPHONSE   - BSCCS/2025/...
- - ROSEMARY MBUTHIA    - BSCCS/2025/...
- - ALIER BIOR ALIER    - BSCCS/2025/...
+ - ARISTOTE ALPHONSE   - BSCCS/2025/40882
+ - ROSEMARY MBUTHIA    - BSCCS/2025/42787
+ - ALIER BIOR ALIER    - BSCCS/2025/41621
+ - LYN WANJIKU         - BSCCS/2025/40726
+ - OBAE DERRICK        - BSCCS/2025/58185
+ - MANORE NJOROGE      - BSCCS/2025/40635
+ - SIMIYU AMY          - BSCCS/2025/39530
+ - MARIAM STEPHEN      - BSCCS/2025/39404
+ - 
 
 # Project overview
 - This project demonstrates the implementation of fundamental data structures in C++ and their applications in real-world systems. The goal is to understand how data structures work, where they are applied, and how algorithms operate on them efficiently.
