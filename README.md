@@ -13,6 +13,7 @@
  - SIMIYU AMY          - BSCCS/2025/39530
  - MARIAM STEPHEN      - BSCCS/2025/39404
  - GRACE  WANGUI       - BBIT/2024/74659
+ - MUADH JAMAL MOHAMED - BEDA/2024/46288
 
 # Project overview
 - This project demonstrates the implementation of fundamental data structures in C++ and their applications in real-world systems. The goal is to understand how data structures work, where they are applied, and how algorithms operate on them efficiently.
